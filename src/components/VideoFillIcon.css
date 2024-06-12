@@ -1,0 +1,7 @@
+.video-fill-icon {
+  width: 24px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 24px;
+  object-fit: cover;
+}

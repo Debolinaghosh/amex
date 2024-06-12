@@ -1,0 +1,34 @@
+.darhboard-child1,
+.darhboard-child2,
+.darhboard-child3,
+.darhboard-child4 {
+  position: absolute;
+  height: 33.33%;
+  width: 33.33%;
+  top: 12.5%;
+  right: 54.17%;
+  bottom: 54.17%;
+  left: 12.5%;
+  border-radius: var(--br-12xs);
+  border: 2px solid var(--line-icon);
+  box-sizing: border-box;
+}
+.darhboard-child2,
+.darhboard-child3,
+.darhboard-child4 {
+  top: 54.17%;
+  bottom: 12.5%;
+}
+.darhboard-child3,
+.darhboard-child4 {
+  right: 12.5%;
+  left: 54.17%;
+}
+.darhboard-child4 {
+  top: 12.5%;
+  bottom: 54.17%;
+}
+.darhboard1 {
+  width: 24px;
+  height: 24px;
+}
